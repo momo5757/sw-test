@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/momo5757/momo5757.github.io/issues"
   },
-  "homepage": "wzhn.me"
+  "homepage": "wzhn.me",
+  "devDependencies": {
+    "workbox-cli": "^2.1.2"
+  }
 }
